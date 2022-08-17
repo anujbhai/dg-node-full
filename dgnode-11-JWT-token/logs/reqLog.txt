@@ -133,3 +133,13 @@
 20220717	17:54:18	02aa3658-3553-4e22-ba63-b09b6a5bcaf2	GET	undefined	/
 20220717	17:54:19	9df8924a-098f-492f-8d6d-b8a9a77fbaf0	GET	undefined	/css/style.css
 20220717	17:54:19	d44d9fa8-51f8-4af1-8894-de92ca5a4304	GET	undefined	/favicon.ico
+20220816	01:01:53	9bf9d90b-8d0e-4e35-bd85-7c588bd85faa	GET	undefined	/
+20220816	01:01:53	a0310c56-f92b-4e33-99e0-73c3c3969099	GET	undefined	/css/style.css
+20220816	01:01:53	5ec5fe56-8b69-4069-9eef-bf9f46e46e2a	GET	undefined	/favicon.ico
+20220816	01:01:57	6f0bb084-420f-4681-9054-6ef120c3d15f	GET	undefined	/css/style.css
+20220816	01:08:58	f0525e9e-f424-4b0a-9bc0-660fd5cc12b7	POST	undefined	/auth
+20220816	01:09:31	b289efe9-2cf4-49a1-9970-e4ef0bd0fab3	POST	undefined	/auth
+20220816	01:10:03	7791f3d6-1946-45bc-bbf1-d79cfacdd896	GET	undefined	/employees/2
+20220816	01:10:35	8a1ab06d-5455-499b-ab66-c3111ee4edf7	GET	undefined	/employees
+20220816	01:11:11	0ff34b9c-864b-49ed-9b53-f5886eb2aa1c	POST	undefined	/auth
+20220816	01:11:32	5cab3bb2-fec9-4c12-b94c-1fc5884eaa84	GET	undefined	/employees
