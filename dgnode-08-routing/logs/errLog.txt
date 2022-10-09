@@ -1,7 +1,0 @@
-20220623	02:11:53	0954e99b-5723-4248-b81d-8fc2859bedc3	TypeError: fsPromises.readFil is not a function
-20220629	19:51:19	edae0097-cb17-4366-8ef8-06c3712ee0ea	Error name: Error, Error message: Not allowed by CORS!
-20220629	19:51:20	12a5804d-b7f4-48ea-bc4c-b1b056954b1b	Error name: Error, Error message: Not allowed by CORS!
-20220629	20:15:52	04e36a22-412e-457d-8e61-96b677cf2b02	Error name: TypeError, Error message: res.accepts is not a function
-20220629	20:15:52	318302eb-ee6e-43ef-b550-5d546ee33b60	Error name: TypeError, Error message: res.accepts is not a function
-20220701	19:52:32	aaee37dc-8027-494c-ab74-ef881d1980fd	Error name: Error, Error message: ENOENT: no such file or directory, stat '/home/dev/local_repos/practice/js/node/dg-node-full/dgnode-08-routing/routes/views/index.html'
-20220701	19:53:07	4e33c6f2-0cf8-41e8-b0b9-78aa804739d7	Error name: Error, Error message: ENOENT: no such file or directory, stat '/home/dev/local_repos/practice/js/node/dg-node-full/dgnode-08-routing/routes/views/index.html'
