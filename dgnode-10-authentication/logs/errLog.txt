@@ -5,3 +5,5 @@
 20220629	20:15:52	318302eb-ee6e-43ef-b550-5d546ee33b60	Error name: TypeError, Error message: res.accepts is not a function
 20220701	19:52:32	aaee37dc-8027-494c-ab74-ef881d1980fd	Error name: Error, Error message: ENOENT: no such file or directory, stat '/home/dev/local_repos/practice/js/node/dg-node-full/dgnode-08-routing/routes/views/index.html'
 20220701	19:53:07	4e33c6f2-0cf8-41e8-b0b9-78aa804739d7	Error name: Error, Error message: ENOENT: no such file or directory, stat '/home/dev/local_repos/practice/js/node/dg-node-full/dgnode-08-routing/routes/views/index.html'
+20221010	22:33:02	fc8518ac-d33b-44fa-a06e-c02f8ff266cc	Error name: ReferenceError, Error message: precess is not defined
+20221010	22:33:40	f94be0b4-3749-48c5-8dfa-68c317525fde	Error name: ReferenceError, Error message: precess is not defined
